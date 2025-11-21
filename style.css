@@ -1,3 +1,4 @@
 body {
-    font-family: 'Poppins', sans-serif; /* Pastikan nama font-nya sama persis */
+    /* Times New Roman, Times, dan serif (cadangan generik) */
+    font-family: "Times New Roman", Times, serif;
 }
