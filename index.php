@@ -9,6 +9,7 @@
     <?php
     echo "Hello, Mochi!";
     echo "Hello Coco!";
+    echo "Hello Cocoooooooo!";
     ?>
 </body>
 </html>
